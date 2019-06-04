@@ -1,0 +1,5 @@
+Set 1 starting position: (13.12, 10.938-4.835, 1.862)
+Each sequential position is x -= 3ft
+
+Set 2 starting position: (7.626, 15.981-3.492, 1.862)
+Each sequential position is y -= 3ft
